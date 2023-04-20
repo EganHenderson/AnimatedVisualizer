@@ -1,0 +1,9 @@
+C:\Users\eganh\Downloads\3P98-2021-Template\3P98-2021-Template\Debug\3P98-2021-Template.exe
+C:\Users\eganh\Downloads\3P98-2021-Template\3P98-2021-Template\Debug\3P98-2021-Template.pdb
+S:\GAME-YEAR_4_TERM_2\COSC 3P98\3P98-2021-Template\3P98-2021-Template\Debug\3P98-2021-Template.exe
+S:\GAME-YEAR_4_TERM_2\COSC 3P98\3P98-2021-Template\3P98-2021-Template\Debug\3P98-2021-Template.pdb
+S:\GAME-YEAR_4_TERM_2\COSC 3P98\Assignment 1\Debug\EganHendersonAssignment1.exe
+S:\GAME-YEAR_4_TERM_2\COSC 3P98\Assignment 1\Debug\EganHendersonAssignment1.pdb
+S:\GAME-YEAR_4_TERM_2\COSC 3P98\EganHenderson_Assignment1\AnimatedVisualizer\Debug\EganHenderson_Assignment1.exe
+S:\GAME-YEAR_4_TERM_2\COSC 3P98\EganHenderson_Assignment1\AnimatedVisualizer\Debug\EganHenderson_Assignment1.pdb
+A:\GAME Past Years\GAME-YEAR_4_TERM_2\COSC 3P98\EganHenderson_Assignment1\AnimatedVisualizer\Debug\EganHenderson_Assignment1.exe
